@@ -610,7 +610,7 @@ section {
 **************************/
 .features {
   text-align: center;
-  background-image: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ),url(../images/formal.jpg);
+  background-image: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ),url(../images/black-ac.jpg);
 }
 
 .features i {
@@ -634,6 +634,34 @@ section {
 
 
 
+
+
+
+
+
+
+/*************************
+*******theteam CSS*******
+**************************/
+.theteam {
+  text-align: center;
+  background-image: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ),url(../images/informal.jpg);
+}
+
+.theteam i {
+  font-size: 48px;
+}
+
+.theteam h3 {
+  margin-top: 15px;
+  font-size: 30px;
+  margin-bottom: 7px;
+  color: #fff;
+}
+
+.theteam .slider-overlay {
+  opacity: 0.8;
+}
 
 
 

@@ -141,6 +141,20 @@
 	#features h3 {
 		font-size: 25px;
 	}
+
+
+	#theteam {
+		min-height: 330px;
+	}
+	#theteam i {
+		font-size: 35px;
+	}
+	#theteam h3 {
+		font-size: 25px;
+	}
+
+
+
 	.price span {
 		font-size: 50px;
 		margin-top: 25px;
