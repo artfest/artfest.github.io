@@ -584,12 +584,33 @@ section {
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*************************
 *******Features CSS*******
 **************************/
 .features {
   text-align: center;
-  background-image: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ),url(../images/acimg.jpg);
+  background-image: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ),url(../images/formal.jpg);
 }
 
 .features i {
@@ -606,6 +627,48 @@ section {
 .features .slider-overlay {
   opacity: 0.8;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*************************
+*******info CSS*******
+**************************/
+.info {
+  text-align: center;
+  background-image: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ),url(../images/acacac
+    .jpg);
+}
+
+.info i {
+  font-size: 48px;
+}
+
+.info h3 {
+  margin-top: 15px;
+  font-size: 30px;
+  margin-bottom: 7px;
+  color: #fff;
+}
+
+.info .slider-overlay {
+  opacity: 0.8;
+}
+
+
+
+
+
+
 
 
 /*************************
@@ -672,6 +735,16 @@ section {
 .single-table.featured .btn.btn-primary {
   background-color: #fff;
 }
+
+
+
+
+
+
+
+
+
+
 
 /*************************
 ********Twitter CSS*******
