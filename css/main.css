@@ -646,6 +646,7 @@ section {
 .theteam {
   text-align: center;
   background-image: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ),url(../images/informal.jpg);
+  background-position: 59% 1%;
 }
 
 .theteam i {
