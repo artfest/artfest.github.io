@@ -1151,3 +1151,9 @@ ul.address {
     font-family: 'Source Sans Pro', sans-serif;
     padding: 20px 16px;
 }
+
+@media (min-width: 767px){
+.main-nav{
+    min-height: 72px;
+}
+}
